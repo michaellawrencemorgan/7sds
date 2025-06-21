@@ -7,7 +7,7 @@ You are about to engage with the Sevenfold Defense System (7SDS). Each module yo
 ## How to Begin:
 
 1. Open each `.md` file in the `/docs` folder in any order you’re guided to.
-2. Decode the spiritual truth in each document.
+2. Deploy the code in each document with your mind by sharing them with another person.  
 3. Use `key.py` in `/utils` to interpret a final passphrase found across all 7.
 4. Once ready, proceed to `/secrets/Science.md`.
 
