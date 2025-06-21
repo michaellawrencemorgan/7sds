@@ -7,3 +7,7 @@
 - Life
 - Truth
 - Love
+
+# All files are located in the /docs directory and must be interpreted in context.
+
+# ⚠️ Caution: Access to /.secrets/Science.md is only granted after successful decoding of key.py.
