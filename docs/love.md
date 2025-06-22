@@ -2,6 +2,9 @@ Share this translation code from this week's Science Lesson. The subject of this
 
 S&H 502:28 (only) The universe reflects Love. 
 
+Spanish 
+502:28 (solo) El universo refleja el Amor.
+
 Simplified Chinese (中文简体):
 502:28（仅此）宇宙反映出爱。
 
