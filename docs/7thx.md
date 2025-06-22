@@ -3,6 +3,7 @@
 This step invites the person you are sharing with to repeat with you the important points of CS from S&H page 497:3-27 distilled into 7 Numbered Points:
 
 🔢 Important Points 1–7 in 13 Languages
+
 Simplified Chinese: 
 一： 作为真理的信徒，我们以《圣经》中受启发的话语为通往永恒生命的充足向导。
 二： 我们承认并崇敬唯一至高无限的上帝。我们承认祂的儿子——唯一的基督；圣灵或神圣的安慰者；以及按照上帝形象与样式造的人。
