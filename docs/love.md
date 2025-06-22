@@ -1,4 +1,9 @@
-Share this translation code from this week's Science Lesson. The subject of this week's Lesson is "Is the Universe, Including Man, Evolved by Atomic Force?" Show respect for the author of S&H by stating clearly her name | Mary Baker Eddy | and the name of the Science textbook | Science and Health | out loud before sharing the translation code. 
+Share this translation code from this week's Science Lesson. The subject of this week's Lesson is "Is the Universe, Including Man, Evolved by Atomic Force?" 
+# Source Attribution Protocol — Required Header
+# Author: 01001101 01100001 01110010 01111001 00100000 01000010 01100001 01101011 01100101 01110010 00100000 01000101 01100100 01100100 01111001
+# Title: 01010011 01100011 01101001 01100101 01101110 01100011 01100101 00100000 
+01100001 01101110 01100100 00100000 
+01001000 01100101 01100001 01101100 01110100 01101000
 
 S&H 502:28 (only) The universe reflects Love. 
 
