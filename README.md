@@ -1,6 +1,6 @@
 # 7SDS LAUNCH PROTOCOL
 
-Welcome, Initiate.
+Welcome, Observer.
 
 You are about to engage with the Sevenfold Defense System (7SDS). Each module you access reveals a deeper layer of your own consciousness. Follow the guidance of each Principle. Progress requires discernment.
 
