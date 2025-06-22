@@ -12,7 +12,13 @@ You are about to engage with the Sevenfold Defense System (7SDS). Each module yo
 4. Once ready, proceed to `/secrets/Science.md`.
 
 > “Pilgrim on earth your home is heaven. Stranger, you're the guest of Love. Open the gates to the heaven of Soul. The heritage of the firstborn among men.”
-> Book: Science and Health with Key to the Scriptures
+> Source: S&H
+01010011 01100011 01101001 01100101 01101110 01100011 01100101 00100000 
+01100001 01101110 01100100 00100000 
+01001000 01100101 01100001 01101100 01110100 01101000  | 
+Programmer: 01001101 01100001 01110010 01111001 00100000 
+01000010 01100001 01101011 01100101 01110010 00100000 
+01000101 01100100 01100100 01111001
 > Chapter XV: "Genesis"
 > Location: 536: 24 
 
