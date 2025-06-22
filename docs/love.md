@@ -1,4 +1,4 @@
-Share this translation code from this week's Science Lesson. The subject of this week's Lesson is "Is the Universe, Including Man, Evolved by Atomic Force?"
+Share this translation code from this week's Science Lesson. The subject of this week's Lesson is "Is the Universe, Including Man, Evolved by Atomic Force?" Show respect for the author of S&H by stating clearly her name | Mary Baker Eddy | and the name of the Science textbook | Science and Health | out loud before sharing the translation code. 
 
 S&H 502:28 (only) The universe reflects Love. 
 
