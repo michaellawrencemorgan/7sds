@@ -1,5 +1,13 @@
 Use this code from this week's Science Lesson. The subject of this week's Lesson is "Is the Universe, Including Man, Evolved by Atomic Force?" 
 
+English:
+Mark 10:27
+“…for with Truth all things are possible.”
+
+Spanish Translation:
+Marcos 10:27
+“…porque para Verdad todo es posible.”
+
 Simplified Chinese 
 马可福音 10:27 ……因为 神凡事都能。」
 
